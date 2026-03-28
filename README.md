@@ -8,7 +8,7 @@ The core focus of this project is to create a structured "learning curve" by:
 * Understanding **SQL** fundamentals and data structures.
 * Writing professional **technical documentation** using Markdown.
 
-My goal is to build a solid foundation that I can directly apply in a professional software engineering career.
+My goal is to build a solid foundation that I can directly apply in a professional software engineering career. More and more topics 
 
 ---
 
