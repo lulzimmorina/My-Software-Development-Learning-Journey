@@ -1,5 +1,7 @@
 # My Software Development Learning Journey 
 
+---
+
 ## Project Description
 Welcome to my personal learning project! I am building this repository to document my path toward becoming a software developer. 
 
@@ -12,10 +14,17 @@ My goal is to build a solid foundation that I can directly apply in a profession
 
 ---
 
+## Table of Contents
+* [Project Description](#project-description)
+* [Current Status & Roadmap](#current-status--roadmap)
+* [Notes & Learnings](#notes--learnings)
+* [Feedback](#feedback)
+
 ## Current Status & Roadmap
 I am documenting my learning journey from scratch. I only check off items once I truly understand the underlying logic.
 
 - [x] Initial setup: GitHub account & connecting VS Code to GitHub
+
 - [/] Basic Git workflow: Learning how to save changes via VS Code (Commits & .gitignore)
 - [/] First SQL steps: Creating tables and basic data entry
       (Commands I used: SELECT, INSERT INTO, DELETE, DROP, ALTER TABLE, ADD COLUMN, WHERE, UPDATE, SET, CREATE, FROM)
